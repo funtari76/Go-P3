@@ -1,18 +1,24 @@
-# SV TRONICS
+# SVTRONICS
 <hr>
-<b>
 
+<b>
 ## Content
+   
 <hr>
+### About
+ 
+ * Consept
+
+```
+The idea and intention behind SV-Tronics is that its a game based on Decision Tree that is a outlined of Neural Networks and as your stuck out in space you have to make and take the right descision as you progress through the stages you pick up on what will then become the entrance to DS.
+
+```
+<b>
+<hr>
+### Code Devevolment
+
 <b>
 
- ### Rules
-  * How to play
-  * 
-
-<hr>
-
-####  Code Dev
 ```
 if __name__ == "__main__":
     while True:
@@ -25,4 +31,5 @@ if __name__ == "__main__":
         name = input()
         print("Wish you Good Luck, " +name+ ".")
         introScene()
-```
+``
+<b>
