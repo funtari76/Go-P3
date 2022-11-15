@@ -1,9 +1,28 @@
+# SV TRONICS
 <hr>
 <b>
-flowchart LR
-     A --o B
-     B --x C
+
+## Content
+<hr>
+<b>
+
+ ### Rules
+  * How to play
+  * 
 
 <hr>
-flowchart TD
-    Start --> Stop
+
+####  Code Dev
+```
+if __name__ == "__main__":
+    while True:
+        print("Welcome to the SV-Tronics-Labs!")
+        print("")
+        print("")
+        print("")
+        print("")
+        print("")
+        name = input()
+        print("Wish you Good Luck, " +name+ ".")
+        introScene()
+```
