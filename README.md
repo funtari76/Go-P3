@@ -28,6 +28,8 @@
 ---
 <hr>
 
+![Decision Tree](/assets/media/screenshotdt1.jpg)
+---
 ```
 The idea and intention behind SV-TRONICS is that its a game based on Decision Tree that is a outlined of Neural Networks and as your stuck out in space you have to make and take the right descision as you progress through the stages you pick up on what will then become the entrance to DS.
 
