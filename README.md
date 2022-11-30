@@ -1,8 +1,11 @@
-# **_Goo :---> Neon7_**
-------------
+# **_GOO - :---> NeoN-[7]_** 
 
-![](assets/media/grify.gif)
---------------
+<hr>
+
+--------------------
+![](/assets/media/giphy.gif)
+
+--------------------
 
 An interactive text-based sci-fi adventure game.
 
@@ -31,6 +34,7 @@ Welcome to <>The Cave of Query</>
   - [**Media**](#media)
 - [**Acknowledgements**](#acknowledgements)
 
+--------------------------------
 # User Experience (UX)
 
 ## Game Design
@@ -46,6 +50,7 @@ the Google Sheets, and kept the data inside the GitPod
 
 [Back to top](#contents)
 
+----------------------
 ## Flowchart
 
 ```
@@ -171,6 +176,7 @@ gives them a little prompt.
 
 [Back to top](#contents)
 
+-------------------------
 ## Puzzle Rooms
 
 Each puzzle room contains a different type of puzzle. 
@@ -254,6 +260,7 @@ allow me.
 
 [Back to top](#contents)
 
+-------------------------
 # Technologies Used
 
 I used the following technologies to create this websi
