@@ -1,7 +1,7 @@
 # **_Goo :---> Neon7_**
 ------------
 
-![](/assets/media/grify.gif)
+![](assets/media/grify.gif)
 --------------
 
 An interactive text-based sci-fi adventure game.
